@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    padding: 12px;
+}
+.item{
+    width: 80px;
+    height: 108px;
+    margin: 6px 12px;
+    position: relative;
+    display: inline-block;
+}
+.itemTitle{
+    text-align: center;
+    bottom: 1px;
+    width: 90%;    
+    margin: 0 5%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #808080;
+}
