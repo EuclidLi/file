@@ -1,1 +1,1 @@
-export const ip = 'http://localhost:7080';
+export const ip = 'http://upload.mr-ja.com;
